@@ -55,6 +55,7 @@ $ yarn start:dev // localhost 싫행
 #### ✔ 김지영
 - 프로젝트 기초 세팅
 - Heroku 배포
+  - Heroku가 지속적으로 깨어있도록 추가 처리  
 - `Dropdown`, `Dropdowns` 컴포넌트 구현
 
 #### ✔ 고병표
